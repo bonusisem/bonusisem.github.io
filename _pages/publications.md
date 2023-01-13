@@ -155,6 +155,11 @@ tr td:nth-child(3) {
 <h3> Maritime transport and efficiency </h3>
 <table>
   <tr>
+    <td><b>Impact analysis of environmental policies on shipping fleet planning under demand uncertainty”</b>, Chua J.Y., Soudagar I., Ng S.H., Meng Q. (2023)</td>
+    <td>submitted</td>
+    <td><a href=''></a></td>
+  </tr>
+  <tr>
     <td><b>Reducing the carbon intensity of international shipping–the impact of energy efficiency measures</b>, Sou S.W., Goh T., Lee X.N., Ng S.H., Chai K.H. (2022)</td>
     <td>Energy Policy</td>
     <td><a href='https://authors.elsevier.com/c/1fkKT_6se4Hb4A'>Download</a></td>
