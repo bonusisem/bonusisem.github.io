@@ -155,7 +155,7 @@ tr td:nth-child(3) {
 <h3> Maritime transport and efficiency </h3>
 <table>
   <tr>
-    <td><b>Impact analysis of environmental policies on shipping fleet planning under demand uncertainty”</b>, Chua J.Y., Soudagar I., Ng S.H., Meng Q. (2023)</td>
+    <td><b>Impact analysis of environmental policies on shipping fleet planning under demand uncertainty</b>, Chua J.Y., Soudagar I., Ng S.H., Meng Q. (2023)</td>
     <td>submitted</td>
     <td><a href=''></a></td>
   </tr>
