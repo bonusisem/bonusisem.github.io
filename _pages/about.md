@@ -16,14 +16,15 @@ redirect_from:
 ## Research interests
 * Applied Statistical Modeling and Analysis
 * Simulation Analysis and Optimization
-* Maritime Transport and Efficiency
+* Maritime Transport and Decarbonization
 
-## Current university appointments and affiliations
+## Current appointments and affiliations
 * Head, Department of Industrial Systems Engineering & Management, Nov 2021 – present
 * Acting Head, Department of Industrial Systems Engineering & Management, Jan 2020 – Oct 2021
 * Track Leader (shipping transport and efficiency) – Centre for Maritime Studies, National University of Singapore, 2012 – present 
 * Affiliate Researcher (energy for maritime transport) – Energy Studies Institute, National University of Singapore, 2018 – present   
-* Fellow – Global Centre for Maritime Decarbonisation (GCMD), Jan 2022 – Dec 2023
+* Fellow – Singapore Maritime Institute (SMI), Jan 2024 – Dec 2025
+* Fellow – Global Centre for Maritime Decarbonisation (GCMD), Jan 2022 – Dec 2024
 
 
 ## Contact
