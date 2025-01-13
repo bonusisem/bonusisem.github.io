@@ -12,8 +12,8 @@ main:
   - title: "Software"
     url: /software/
        
-  - title: "Recruitment"
-    url: /recruitment/
+  # - title: "Recruitment"
+  #   url: /recruitment/
     
  
     
