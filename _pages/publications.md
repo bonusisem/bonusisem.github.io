@@ -406,111 +406,133 @@ tr td:nth-child(3) {
 <h3>Selected articles in published conference proceedings</h3>
 <table>
   <tr>
+    <td>C1</td>
     <td><b>A Gaussian Process Based Algorithm for Stochastic Simulation Optimization with Input Distribution Uncertainty</b>, Wang H., Ng S.H., Zhang X. (2020)</td>
     <td>Proceedings of the Winter Simulation Conference 2020</td>
     <td><a href='https://dl.acm.org/doi/10.5555/3466184.3466518'>Download</a></td>
   </tr>
   <tr>
+    <td>C2</td>
     <td><b>Stochastic Gaussian Process Model Averaging for High Dimensional Inputs</b>, Xuereb M., Ng S.H., Pedrielli G. (2020)</td>
     <td>Proceedings of the Winter Simulation Conference 2020</td>
     <td><a href='https://dl.acm.org/doi/10.5555/3466184.3466225'>Download</a></td>
   </tr>
   <tr>
+    <td>C3</td>
     <td><b>Partition Based Bayesian Optimization for Stochastic Simulations</b>, Wang S., Ng S.H. (2020)</td>
     <td>Proceedings of the Winter Simulation Conference 2020</td>
     <td><a href='https://dl.acm.org/doi/10.5555/3466184.3466510'>Download</a></td>
   </tr>
   <tr>
+    <td>C4</td>
     <td><b>Quantile Simulation Optimization with a Stochastic Co-Kriging Model</b>, Wang S., Ng S.H., Haskell W.B. (2018)</td>
     <td>Proceedings of the Winter Simulation Conference 2018</td>
     <td><a href='https://www.semanticscholar.org/paper/QUANTILE-SIMULATION-OPTIMIZATION-WITH-STOCHASTIC-Wang-Ng/bbffbda2fec2776ad1d1cf05f39ca235ff446988'>Download</a></td>
   </tr>
   <tr>
+    <td>C5</td>
     <td><b>Informational Approach to Global Optimization with Input Uncertainty for Homoscedastic Stochastic Simulation</b>, Wang H., Yuan J., Ng S.H. (2018)</td>
     <td>Proceedings of the 2018 IEEE International Conference on Industrial Engineering and Engineering (received outstanding paper award)</td>
     <td><a href='https://www.researchgate.net/publication/330396550_Informational_Approach_to_Global_Optimization_with_Input_Uncertainty_for_Homoscedastic_Stochastic_Simulation'>Download</a></td>
   </tr>
   <tr>
+    <td>C6</td>
     <td><b>A joint Gaussian process metamodel to improve quantile predictions</b>, Wang S., Ng S.H. (2017)</td>
     <td>Proceedings of the Winter Simulation Conference 2017</td>
     <td><a href='https://www.informs-sim.org/wsc17papers/includes/files/152.pdf'>Download</a></td>
   </tr>
   <tr>
+    <td>C7</td>
     <td><b>Trust region based stochastic optimization with adaptive restart: A family of global optimization algorithms</b>, Mathesen L., Pedrielli G., Ng S.H. (2017)</td>
     <td>Proceedings of the Winter Simulation Conference 2017</td>
     <td><a href='https://www.researchgate.net/publication/322319638_Trust_region_based_stochastic_optimization_with_adaptive_restart_A_family_of_global_optimization_algorithms'>Download</a></td>
   </tr>
   <tr>
+    <td>C8</td>
     <td><b>Enhancing pattern search for global optimization with an additive global and local Gaussian Process model</b>, Meng Q., Ng S.H. (2017)</td>
     <td>Proceedings of the Winter Simulation Conference 2017</td>
     <td><a href='https://dl.acm.org/doi/10.5555/3242181.3242356'>Download</a></td>
   </tr>
   <tr>
+    <td>C9</td>
     <td><b>Combined global and local method for stochastic simulation optimization with an AGLGP model</b>, Meng Q., Ng S.H. (2016)</td>
     <td>Proceedings of the Winter Simulation Conference 2016</td>
     <td><a href='https://dl.acm.org/doi/10.5555/3042094.3042208'>Download</a></td>
   </tr>
   <tr>
+    <td>C10</td>
     <td><b>An Additive Global and Local Gaussian Process Model for Large Data Sets</b>, Meng Q., Ng S.H. (2015)</td>
     <td>Proceedings of the Winter Simulation Conference 2015</td>
     <td><a href='https://www.informs-sim.org/wsc15papers/043.pdf'>Download</a></td>
   </tr>
   <tr>
+    <td>C11</td>
     <td><b>Kriging-based Simulation Optimization: A Stochastic Recursion Perspective</b>, Pedrielli G., Ng S.H. (2015)</td>
     <td>Proceedings of the Winter Simulation Conference 2015</td>
     <td><a href='https://asu.pure.elsevier.com/en/publications/kriging-based-simulation-optimization-a-stochastic-recursion-pers'>Download</a></td>
   </tr>
   <tr>
+    <td>C12</td>
     <td><b>SNAT: Simulation-Based Search for Navigational Safety. The case of Singapore Strait</b>, Chen X.Y., Pedrielli G., Ng S.H. (2014)</td>
     <td>Proceedings of the Winter Simulation Conference 2014, Pages 589-600, Institute of Electrical and Electronics Engineers. Savannah, USA</td>
     <td><a href='https://asu.pure.elsevier.com/en/publications/snat-simulation-based-search-for-navigation-safety-the-case-of-si'>Download</a></td>
   </tr>
   <tr>
+    <td>C13</td>
     <td><b>An Entropy Based Sequential Calibration Approach for Stochastic Computer Models</b>, Yuan J., Ng S.H. (2013)</td>
     <td>Proceedings of the Winter Simulation Conference 2013, Pages 589-600, Institute of Electrical and Electronics Engineers. Washington D.C., USA</td>
     <td><a href='https://www.researchgate.net/publication/269329533_An_entropy_based_sequential_calibration_approach_for_stochastic_computer_models'>Download</a></td>
   </tr>
   <tr>
+    <td>C14</td>
     <td><b>A Bayesian Metamodeling Approach for Stochastic Simulations</b>, Yin J., Ng S.H., Ng K.M. (2010)</td>
     <td>Proceedings of the Winter Simulation Conference 2010, Pages 1055-1066, Institute of Electrical and Electronics Engineers. Baltimore, MD, USA</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/72227'>Download</a></td>
   </tr>
   <tr>
+    <td>C15</td>
     <td><b>A Study on the Effects of Parameter Estimation on Kriging Model’s Prediction Error in Stochastic Simulations</b>, Yin J., Ng S.H., Ng K.M. (2009)</td>
     <td>Proceedings of the Winter Simulation Conference 2009, Pages 674-685, Institute of Electrical and Electronics Engineers. Austin, Texas, USA</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/72266'>Download</a></td>
   </tr>
   <tr>
+    <td>C16</td>
     <td><b>Kriging Model with Modified Nugget Effect</b>, Yin J., Ng S.H., Ng K.M. (2008)</td>
     <td>Proceedings of the IEEE International Conference on Industrial Engineering and Engineering Management 2008, Pages 1714-1718, Institute of Electrical and Electronics Engineers.  Singapore</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/72343'>Download</a></td>
   </tr>
   <tr>
+    <td>C17</td>
     <td><b>Reliability Analysis of Weighted Voting Systems with Continuous State Input</b>, Long Q., Xie M. and Ng S.H. (2006)</td>
     <td>Proceedings of the first IEEE International Conference on System Integration and Reliability Improvements. Hanoi, Vietnam</td>
     <td><a href='https://www.researchgate.net/publication/4940246_Reliability_analysis_and_optimization_of_weighted_voting_systems_with_continuous_states_input'>Download</a></td>
   </tr>
   <tr>
+    <td>C18</td>
     <td><b>Early software reliability prediction with extended ANN model</b>, Hu Q.P., Dai Y.S., Xie M. and Ng S.H. (2006)</td>
     <td>Proceedings of the IEEE International Computer Software and Applications Conference. Pages 1325-1331. Chicago, Illinois, USA</td>
     <td><a href='https://scholarbank.nus.edu.sg/handle/10635/72323'>Download</a></td>
   </tr>
   <tr>
+    <td>C19</td>
     <td><b>Reliability and modeling of systems integrated with firmware and hardware</b>, Zhang T.L., Xie M., Tang L.C. and Ng S.H. (2004)</td>
     <td>Proceedings of 2004 Asian International Workshop on Advanced Reliability Modeling, Pages 617-624.  Hiroshima City, Japan (received the best paper award)</td>
     <td><a href='https://www.researchgate.net/publication/332971234_Modified_Beta_Linear_Exponential_Distribution_with_Hydrologic_Applications'>Download</a></td>
   </tr>
   <tr>
+    <td>C20</td>
     <td><b>Benchmarking of a Stochastic Production Planning Model in a Simulation Testbed</b>, Riano G., Ng S.H., Serfozo R., Hackman S., Lendermann P., Chan L.P. (2003)</td>
     <td>Proceedings of the Winter Simulation Conference 2003, Volume 2, Pages 1183-1191, Institute of Electrical and Electronics Engineers.  New Orleans, Louisiana, USA</td>
     <td><a href='https://www.researchgate.net/publication/4053632_Benchmarking_of_a_stochastic_production_planning_model_in_a_simulation_testbed'>Download</a></td>
   </tr>
   <tr>
+    <td>C21</td>
     <td><b>Joint Criterion for Factor Identification and Parameter Estimation</b>, Chick S.E., Ng S.H. (2002)</td>
     <td>Proceedings of the Winter Simulation Conference 2002, Volume 1, Pages 400-406, Institute of Electrical and Electronics Engineers.  San Diego, California, USA</td>
     <td><a href='https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.58.6050&rep=rep1&type=pdf'>Download</a></td>
   </tr>
   <tr>
+    <td>C22</td>
     <td><b>Reducing Input Parameter Uncertainty for Simulations</b>, Ng S.H., Chick S.E. (2001)</td>
     <td>Proceedings of the Winter Simulation Conference 2001, Volume 1, Pages 364-371, Institute of Electrical and Electronics Engineers.  Arlington, Virginia, USA</td>
     <td><a href='https://www.cs.princeton.edu/courses/archive/spring04/cos598B/bib/NgC.pdf'>Download</a></td>
@@ -519,22 +541,27 @@ tr td:nth-child(3) {
 
 
 <h3>Preprints</h3>
+<table>
   <tr>
-    <td><b>Adjusted Expected Improvement for Cumulative Regret Minimization in Noisy Bayesian Optimization</b>, Hu S., Wang H., Dai Z., Low B.K.H., Ng S.H. (2022)</td>
+    <td>P1</td>
+    <td><b>Adjusted Expected Improvement for Cumulative Regret Minimization in Noisy Bayesian Optimization</b>, Hu S., Wang H., Dai Z., Low B.K.H., Ng S.H. (2024)</td>
     <td>arXiv</td>
     <td><a href='https://arxiv.org/abs/2205.04901'>Download</a></td>
   </tr>
-    <tr>
-    <td><b>A Model Aggregation Approach for High-dimensional Large-scale Optimization</b>, Wang H., Zhang E., Ng S.H., Pedrielli G. (2022)</td>
+  <tr>
+    <td>P2</td>
+    <td><b>A Model Aggregation Approach for High-dimensional Large-scale Optimization</b>, Wang H., Zhang E., Ng S.H., Pedrielli G. (2024)</td>
     <td>arXiv</td>
     <td><a href='https://arxiv.org/abs/2205.07525'>Download</a></td>
   </tr>
-    <tr>
-    <td><b>A Nonparametric Bayesian Approach for Simulation Optimization with Input Uncertainty</b>, Wang H., Zhang X., Ng S.H. (2021)</td>
+  <tr>
+    <td>P3</td>
+    <td><b>A Data-Driven Bayesian Nonparametric Approach
+for Black-Box Optimization</b>, Wang H., Zhang X., Ng S.H., Wang S. (2024)</td>
     <td>arXiv</td>
     <td><a href='https://arxiv.org/abs/2008.02154'>Download</a></td>
   </tr>
-
+</table>
 </body>
 </html>
 
