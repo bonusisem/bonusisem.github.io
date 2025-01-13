@@ -24,9 +24,12 @@ tr:nth-child(even) {
 }
 
 tr td:first-child {
-    width: 50%;
+    width: 5%;
 }
 tr td:nth-child(2) {
+    width: 45%;
+}
+tr td:nth-child(3) {
     width: 40%;
 }
 tr td:nth-child(3) {
