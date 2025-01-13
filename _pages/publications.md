@@ -32,7 +32,7 @@ tr td:nth-child(2) {
 tr td:nth-child(3) {
     width: 40%;
 }
-tr td:nth-child(3) {
+tr td:nth-child(4) {
     width: 10%;
 }
 
