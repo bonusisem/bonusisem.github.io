@@ -19,7 +19,8 @@ table th:nth-of-type(2) {
 
 |      Name      | Description                                                                                                                                                                                              |
 |:--------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  Zhang Ercong  | “Bayesian Optimization for High Dimensional Problems”, expected graduation 2025                                                                                                                          |
+|  Han Congyu  |                                                                                                |
+|  Pu Mingyu  |                                                                                                |
 |  Wang Haowei   | “Simulation Metamodeling and Optimization with Gaussian Process Models under Input Uncertainty”, 2021,  B.E from Nanjing University                                                                                                   |
 |  Wang Songhao  | “Metamodeling and Optimization with Gaussian Process Models for Stochastic Simulations”, 2020, B.S from University of Science and Technology of China, first position @ Huawei Noah's Ark Lab            |
 |    Meng Qun    | “Simulation Metamodeling and Optimization with an Additive Global and Local Gaussian Process Model for Stochastic Systems”, 2018, B.E from Shanghai Jiaotong University, first position @ Grab Singapore |
@@ -38,6 +39,7 @@ table th:nth-of-type(2) {
 
 |          Name          | Description                                                                                                     |
 |:----------------------:|-----------------------------------------------------------------------------------------------------------------|
+|  Zhang Ercong  | “Bayesian Optimization for High Dimensional Problems”, 2024                                                             |
 |       Zhang Nan        | “An Online Truncation Method for Transient Bias Reduction in Steady State Simulations”, 2018                    |
 |       Zhang Yiru       | “Evaluation of the impact of trans-Arctic routes on Asian ports”, 2017                                          |
 | Matthias Tan Hwai Yong | “Estimation of Mean and Variance Response Surfaces in Robust Parameter Design”, 2009                            |
@@ -46,12 +48,11 @@ table th:nth-of-type(2) {
 
 
 ## Current Member
-- Dr. Wang Haowei 
+- Dr. Wang Haowei
 - Dr. Khaja Irfan Babu Soudagar Abdul
-- Li Hongpeng
-- Zhang Ercong
+- Dr. Iman Jafari
+- Dr. Wang Wenyu
 - Han Congyu
 - Pu Mingyu
-- Gao Gui
 
 
