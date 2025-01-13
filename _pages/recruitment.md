@@ -2,7 +2,7 @@
 layout: archive
 title: " "
 permalink: /recruitment/
-author_profile: false
+author_profile: true
 ---
 
 
