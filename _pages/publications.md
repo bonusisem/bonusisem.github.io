@@ -433,8 +433,8 @@ for Black-Box Optimization</b>, Wang H., Zhang X., Ng S.H., Wang S. (2024)</td>
 <table>
     <tr>
     <td>C1</td>
-    <td><b>Minimizing UCB: a Better Local Search Strategy in Local Bayesian Optimization</b>,C1. Fan Z., Wang W., Ng S.H., Hu Q. (2024)</td>
-    <td>In Advances in Neural Information Processing Systems (NeurIPS), 2024.</td>
+    <td><b>Minimizing UCB: a Better Local Search Strategy in Local Bayesian Optimization</b>, C1. Fan Z., Wang W., Ng S.H., Hu Q. (2024)</td>
+    <td>Advances in Neural Information Processing Systems (NeurIPS), 2024</td>
     <td><a href='https://arxiv.org/abs/2405.15285'>Download</a></td>
   </tr>
   <tr>
