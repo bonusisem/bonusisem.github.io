@@ -19,8 +19,6 @@ table th:nth-of-type(2) {
 
 |      Name      | Description                                                                                                                                                                                              |
 |:--------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  Han Congyu  |                                                                                                |
-|  Pu Mingyu  |                                                                                                |
 |  Wang Haowei   | “Simulation Metamodeling and Optimization with Gaussian Process Models under Input Uncertainty”, 2021,  B.E from Nanjing University                                                                                                   |
 |  Wang Songhao  | “Metamodeling and Optimization with Gaussian Process Models for Stochastic Simulations”, 2020, B.S from University of Science and Technology of China, first position @ Huawei Noah's Ark Lab            |
 |    Meng Qun    | “Simulation Metamodeling and Optimization with an Additive Global and Local Gaussian Process Model for Stochastic Systems”, 2018, B.E from Shanghai Jiaotong University, first position @ Grab Singapore |
