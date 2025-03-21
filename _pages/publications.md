@@ -45,7 +45,7 @@ tr td:nth-child(4) {
   <tr>
     <td>P1</td>
     <td><b>Carbon Revenue Distribution in International Shipping</b>, Chai K.H., Ng S.H., Ang B.W., Tham A.G.Y. (2025)</td>
-    <td>arXiv</td>
+    <td>CMS</td>
     <td><a href='https://www.maritimestudies.nus.edu.sg/wp-content/uploads/2025/02/Carbon-Revenue-Distribution-in-International-Shipping_Discussion-Paper_Jan-2025_CMS_NUS.pdf'>Download</a></td>
   </tr>
   <tr>
