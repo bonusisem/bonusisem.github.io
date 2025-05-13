@@ -69,7 +69,7 @@ for Black-Box Optimization</b>, Wang H., Zhang X., Ng S.H., Wang S. (2024)</td>
   <td>J1</td>
   <td><b>Adjusted Expected Improvement for Cumulative Regret Minimization in Noisy Bayesian Optimization</b>, Hu S., Wang H., Dai Z., Low B.K.H., Ng S.H. (2025)</td>
   <td>Journal of Machine Learning Research</td>
-  <td><a href='https://arxiv.org/abs/2205.04901'>Download</a></td>
+  <td><a href='https://www.jmlr.org/papers/volume26/22-0523/22-0523.pdf'>Download</a></td>
 </tr>
 <tr>
   <td>J2</td>
@@ -447,7 +447,7 @@ for Black-Box Optimization</b>, Wang H., Zhang X., Ng S.H., Wang S. (2024)</td>
     <td>C2</td>
     <td><b>Minimizing UCB: a Better Local Search Strategy in Local Bayesian Optimization</b>, C1. Fan Z., Wang W., Ng S.H., Hu Q. (2024)</td>
     <td>Advances in Neural Information Processing Systems (NeurIPS), 2024</td>
-    <td><a href='https://arxiv.org/abs/2405.15285'>Download</a></td>
+    <td><a href='https://proceedings.neurips.cc/paper_files/paper/2024/file/eb91e094b1fb67d650470ce603acf085-Paper-Conference.pdf'>Download</a></td>
   </tr>
   <tr>
     <td>C3</td>
