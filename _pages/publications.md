@@ -440,7 +440,7 @@ for Black-Box Optimization</b>, Wang H., Zhang X., Ng S.H., Wang S. (2024)</td>
   <tr>
     <td>C1</td>
     <td><b>A Trajectory-Based Bayesian Approach to Multi-Objective Hyperparameter Optimization with Epoch-Aware Trade-Offs</b>, Wang W., Fan Z., Ng S.H. (2025)</td>
-    <td>In 41st Conference on Uncertainty in Artificial Intelligence (UAI) 2025</td>
+    <td>In 41st Conference on Uncertainty in Artificial Intelligence (UAI), 2025</td>
     <td><a href='https://arxiv.org/pdf/2405.15303'>Download</a></td>
   </tr>
   <tr>
