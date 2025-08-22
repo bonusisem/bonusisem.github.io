@@ -64,7 +64,7 @@ for Black-Box Optimization</b>, Wang H., Zhang X., Ng S.H., Wang S. (2024)</td>
   <tr>
     <td>P4</td>
     <td><b>Navigating IMO Net-Zero Framework: Potential Challenges and Refinements</b>,  Jafari I., Soudagar I., Ng S.H. (2025)</td>
-    <td></td>
+    <td>CMS</td>
     <td><a href='https://maritimestudies.nus.edu.sg/wp-content/uploads/2025/08/ComplianceFramework-WorkingPaper.pdf'>Download</a></td>
   </tr>
   <tr>
