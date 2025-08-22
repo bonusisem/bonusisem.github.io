@@ -61,6 +61,24 @@ for Black-Box Optimization</b>, Wang H., Zhang X., Ng S.H., Wang S. (2024)</td>
     <td>arXiv</td>
     <td><a href='https://arxiv.org/abs/2008.02154'>Download</a></td>
   </tr>
+  <tr>
+    <td>P4</td>
+    <td><b>Navigating IMO Net-Zero Framework: Potential Challenges and Refinements</b>,  Jafari I., Soudagar I., Ng S.H. (2025)</td>
+    <td></td>
+    <td><a href='https://maritimestudies.nus.edu.sg/wp-content/uploads/2025/08/ComplianceFramework-WorkingPaper.pdf'>Download</a></td>
+  </tr>
+  <tr>
+    <td>P5</td>
+    <td><b>Bayesian Optimization with Expected Improvement: No Regret and the Choice of Incumbent</b>, Wang J., Wang H., Ng S.H., Petra C. G.  (2025)</td>
+    <td>arXiv</td>
+    <td><a href='https://arxiv.org/abs/2508.15674'>Download</a></td>
+  </tr>
+  <tr>
+    <td>P6</td>
+    <td><b>Convergence Rates of Constrained Expected Improvement</b>, Wang H., Wang J., Dai Z., Chiang N., Ng S.H., Petra C. G. (2025)</td>
+    <td>arXiv</td>
+    <td><a href='https://arxiv.org/abs/2505.11323'>Download</a></td>
+  </tr>
 </table>
 
 <h3>Journals</h3>
@@ -68,7 +86,7 @@ for Black-Box Optimization</b>, Wang H., Zhang X., Ng S.H., Wang S. (2024)</td>
 <tr>
   <td>J1</td>
   <td><b>Adjusted Expected Improvement for Cumulative Regret Minimization in Noisy Bayesian Optimization</b>, Hu S., Wang H., Dai Z., Low B.K.H., Ng S.H. (2025)</td>
-  <td>Journal of Machine Learning Research</td>
+  <td>Journal of Machine Learning Research, 26(46), 1-33</td>
   <td><a href='https://www.jmlr.org/papers/volume26/22-0523/22-0523.pdf'>Download</a></td>
 </tr>
 <tr>
@@ -446,7 +464,7 @@ for Black-Box Optimization</b>, Wang H., Zhang X., Ng S.H., Wang S. (2024)</td>
   <tr>
     <td>C2</td>
     <td><b>Weighted Euclidean Distance Matrices over Mixed Continuous and Categorical Inputs for Gaussian Process Models</b>, Pu M., Wang S., Wang W., Ng S.H. (2025)</td>
-    <td>Artificial Intelligence and Statistics(AISTATS), 2025</td>
+    <td>In International Conference on Artificial Intelligence and Statistics (AISTATS), pp. 4951-4959, 2025</td>
     <td><a href='https://arxiv.org/pdf/2503.02630'>Download</a></td>
   </tr>
   <tr>
