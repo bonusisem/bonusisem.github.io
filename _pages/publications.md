@@ -79,6 +79,13 @@ for Black-Box Optimization</b>, Wang H., Zhang X., Ng S.H., Wang S. (2024)</td>
     <td>arXiv</td>
     <td><a href='https://arxiv.org/abs/2505.11323'>Download</a></td>
   </tr>
+  <tr>
+    <td>P7</td>
+    <td><b>An Online Non-Stationary Simulation Optimization Approach Based on Regime Switching
+</b>, Xia J., Wang H., Wang S., Ng S. H. (2025)</td>
+    <td>arXiv</td>
+    <td><a href='https://arxiv.org/abs/2508.12634'>Download</a></td>
+  </tr>
 </table>
 
 <h3>Journals</h3>
