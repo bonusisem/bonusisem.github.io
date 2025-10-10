@@ -103,13 +103,13 @@ for Black-Box Optimization</b>, Wang H., Zhang X., Ng S.H., Wang S. (2024)</td>
 </tr>
 <tr>
   <td>J5</td>
-  <td><b>Robust Prediction of Residual Chlorine Decay in A Drinking Water Distribution System Integrating Water Quality Sensing and Predictive Tools</b>, Jafari I., Luo R., Ng E., Corral F., Chua Y., [...]
+  <td><b>Robust Prediction of Residual Chlorine Decay in A Drinking Water Distribution System Integrating Water Quality Sensing and Predictive Tools</b>, Jafari I., Luo R., Ng E., Corral F., Chua Y.,  Ng S.H., Hu J. (2024)</td>
   <td>ACS ES&T Water, 4(12), 5506 – 5521</td>
   <td><a href='http://doi.org/10.1021/acsestwater.4c00586'>Download</a></td>
 </tr>
 <tr>
   <td>J6</td>
-  <td><b>The decarbonization pathway of power system by high-resolution model under different policy scenarios in China</b>, Wang Z., Li J., Wang B., Ng S.H., Lu B., Wang C., Xu S., Zhou Z., Zhang B.,[...]
+  <td><b>The decarbonization pathway of power system by high-resolution model under different policy scenarios in China</b>, Wang Z., Li J., Wang B., Ng S.H., Lu B., Wang C., Xu S., Zhou Z., Zhang B., Zheng Y. (2024)</td>
   <td>Applied Energy, 355, 122235</td>
   <td><a href='http://doi.org/10.1016/j.apenergy.2023.122235'>Download</a></td>
 </tr>
@@ -121,7 +121,7 @@ for Black-Box Optimization</b>, Wang H., Zhang X., Ng S.H., Wang S. (2024)</td>
 </tr>
 <tr>
   <td>J8</td>
-  <td><b>Machine-learning-assisted prediction and optimized kinetic modelling of residual chlorine decay for enhanced water quality management</b>, Jafari I., Luo R., Lim F.Y., Ng S.H., Hu J. (2023)</[...]
+  <td><b>Machine-learning-assisted prediction and optimized kinetic modelling of residual chlorine decay for enhanced water quality management</b>, Jafari I., Luo R., Lim F.Y., Ng S.H., Hu J. (2023)</td>
   <td>Chemosphere, 341, 140011</td>
   <td><a href='http://doi.org/10.1016/j.chemosphere.2023.140011'>Download</a></td>
 </tr>
