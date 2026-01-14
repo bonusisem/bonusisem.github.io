@@ -46,7 +46,6 @@ table th:nth-of-type(2) {
 
 
 ## Current Member
-- Dr. Wang Haowei
 - Dr. Khaja Irfan Babu Soudagar Abdul
 - Dr. Iman Jafari
 - Dr. Wang Wenyu
